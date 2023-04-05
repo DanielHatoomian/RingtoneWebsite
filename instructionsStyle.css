@@ -1,0 +1,21 @@
+html, body { 
+  height: 100%;
+  width: 100%;
+  margin: 0; padding: 0;
+}
+
+.instructionsHeader {
+  background-image: linear-gradient(to top right, gray, navy);
+  font-family: 'Roboto Slab', serif;
+  color: lightgray;
+}
+
+.instructionHomeLink {
+  color: lightgray;
+}
+
+.instructionsBody {
+  font-family: 'Roboto Slab', serif;
+  margin-left: 50px;
+  margin-right: 50px;
+}
